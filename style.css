@@ -1,0 +1,193 @@
+
+.header
+{
+color: white;
+background-color: rgb(2, 41, 75); 
+margin-inline: 10%;
+margin-bottom:10px;
+padding-bottom: 10px;
+border-radius: 20px;
+text-align: center;
+}
+.link1
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+}
+
+.link2
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+}
+
+.link3
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+}
+
+.link4
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+}
+
+.myphoto
+{
+width: 10%;
+display: inline-block;
+}
+#About-me
+{
+border-radius: 20px;
+background-color: rgb(2, 41, 75);
+color: white;
+margin-inline: 15%;
+margin-bottom: 10px;
+text-align: center;
+padding-block: 10px;
+}
+
+#Myskills
+{
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75); 
+    color: white;
+    margin-inline: 15%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-block: 10px;
+}
+
+#html5{
+
+background-color: rgb(14, 81, 107);
+    border-radius: 20px;
+    margin-inline: 50px;
+}
+
+#css3{
+
+background-color: rgb(14, 81, 107);
+    border-radius: 20px;
+    margin-inline: 50px;
+}
+
+#java{
+
+background-color: rgb(14, 81, 107);
+    border-radius: 20px;
+    margin-inline: 50px;
+}
+
+#react{
+
+background-color: rgb(14, 81, 107);
+    border-radius: 20px;
+    margin-inline: 50px;
+}
+
+#Experience
+{
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75); 
+    color: white;
+    margin-inline: 15%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-block: 10px;
+
+}
+
+#first
+{
+    background-color: rgb(14, 81, 107);
+    border-radius: 20px;
+    margin-inline: 50px;
+}
+
+#second
+{
+    background-color: rgb(14, 81, 107);
+    border-radius: 20px;
+    margin-inline: 50px;
+}
+
+#Contact
+{
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75); 
+    color: white;
+    margin-inline: 15%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-block: 10px;
+
+}
+
+#gmail
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+    
+
+}
+    
+#linkedin
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+    
+}
+
+#Github
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: 450px;
+    margin-block: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+/* <div class="all"> 
+
+<div class="title">
+<h1> Mohamed hassan </h1>
+<h3> frontend-developer </h3>
+</div>
+
+<div class="buttons">
+
+<a href="#about me"></a>
+<a href="#my skills"></a>          
+<a href="#experience"></a>
+<a href="#contact"></a>
+
+</div>
+
+
+
+
+    </div>
+*/
